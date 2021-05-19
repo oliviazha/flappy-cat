@@ -1,2 +1,2 @@
 # flappy-cat
-rendition of flappy bird game
+rendition of the flappy bird game using core Java, Java Swing GUI library, and the jUnit test suite
